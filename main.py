@@ -32,7 +32,6 @@ async def start_bot(message: Message):
     \nDecrypt file - /decrypt</b>')
 
 # EncryptFile
-
 @router.message(Command('encrypt'))
 async def get_file(message: Message, state: FSMContext):
     await message.answer('<b>Send file📁</b>')
@@ -58,7 +57,6 @@ async def encrypt_file(message: Message, state: FSMContext):
     await state.clear()
 
 # DecryptFile
-
 @router.message(Command('decrypt'))
 async def get_file_enc(message: Message, state: FSMContext):
     await message.answer('<b>Send file📁</b>')
