@@ -2,7 +2,7 @@
 Encrypt & Decrypt files in telegram easily
 
 # **Introduction**
-DataShield is your key to data security on Telegram.
+DataShield is your personal file encryptor on Telegram.
   - Speed: Encryption and decryption are instant.
   - Convenience: All you need is Telegram and DataShield bot.
   - Security: DataShield use the proven AesCrypt algorithm to encrypt your files.
@@ -15,3 +15,4 @@ To use DataShield you need:
   - Send the bot file.
   - Come up with a key.
   - And that's cooked.
+
