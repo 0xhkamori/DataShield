@@ -1,3 +1,3 @@
 # **DataShield**
 
-Encrypt & Decrypt files in telegram easily
+*Encrypt & Decrypt files in telegram easily
