@@ -12,7 +12,7 @@ Forget about third-party sites and apps. DataShield is all you need.
 # **Usage**
 To use DataShield you need:
   - Go to this link [@datashield_bot](https://t.me/datashield_bot).
-  - Send the bot file.
+  - Send DataShield your file.
   - Come up with a key.
   - And that's cooked.
 
