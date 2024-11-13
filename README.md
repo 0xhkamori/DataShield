@@ -16,3 +16,7 @@ To use DataShield you need:
   - Come up with a key.
   - And that's cooked.
 
+# **Installiation**
+  1. Download the source code from github.
+  2. Download libraries in the terminal [Aiogram](https://docs.aiogram.dev/en/latest/install.html) and [pyAesCrypt](https://pypi.org/project/pyAesCrypt/)
+  3. Put your [token](https://t.me/BotFather) and run the code.
