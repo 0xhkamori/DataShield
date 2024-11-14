@@ -20,3 +20,5 @@ To use DataShield you need:
   1. Download the source code from github.
   2. Download libraries in the terminal [Aiogram](https://docs.aiogram.dev/en/latest/install.html) and [pyAesCrypt](https://pypi.org/project/pyAesCrypt/)
   3. Put your token from [botfather](https://t.me/BotFather) in config.py file and run the code.
+
+# **License**
